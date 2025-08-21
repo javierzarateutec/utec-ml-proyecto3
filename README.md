@@ -17,8 +17,8 @@ Proyecto base (**baseline**) para clasificar imágenes de mariposas usando una *
 
 ## 🧰 Requisitos
 
-Tener una cuenta de google colab
-activar el entorno de ejecución GPU T4 en google colab
-
+- Tener una cuenta de google colab
+- activar el entorno de ejecución GPU T4 en google colab
+- No se incluye un 'requeriments.txt' dado que en el mismo notebook se hace la instalación de las dependencias necesarias
 ---
 
