@@ -33,3 +33,11 @@ Proyecto base para clasificar imágenes de mariposas usando una **red MLP**.
 Si la ejecución demora ajustar el espacio de ejecución de la variable *space*
 
 ---
+
+## 👥 Integrantes
+
+- Aldo Angeles
+- Raul Pari
+- Javier Zárate
+
+---
