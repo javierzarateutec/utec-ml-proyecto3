@@ -22,3 +22,15 @@ Proyecto base (**baseline**) para clasificar imágenes de mariposas usando una *
 - No se incluye un 'requeriments.txt' dado que en el mismo notebook se hace la instalación de las dependencias necesarias
 ---
 
+
+## Ejecución
+
+1. Abre el notebook (idealmente en **Google Colab**).
+2. Ve a **Runtime → Run all** (Ejecutar todo).
+3. No se requieren pasos manuales: el pipeline corre de inicio a fin.  
+   > Recomendado: en Colab, activa **GPU T4**: *Runtime → Change runtime type → GPU (T4)*.
+
+Si la ejecución demora ajustar el espacio de ejecución de la variable *space*
+
+
+---
