@@ -23,7 +23,7 @@ Proyecto base (**baseline**) para clasificar imágenes de mariposas usando una *
 ---
 
 
-## Ejecución
+## 🚀 Ejecución
 
 1. Abre el notebook (idealmente en **Google Colab**).
 2. Ve a **Runtime → Run all** (Ejecutar todo).
