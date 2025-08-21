@@ -1,12 +1,12 @@
 # Butterfly Image Classification with PyTorch neural networks
 
-Proyecto base (**baseline**) para clasificar imágenes de mariposas usando una **red MLP** sobre características de píxeles (flatten).
+Proyecto base para clasificar imágenes de mariposas usando una **red MLP**.
 
 > **Objetivo:** establecer un baseline medible (accuracy, F1 macro, PR‑AUC por clase opcional) y documentado, con buenas prácticas de preprocesamiento, regularización y búsqueda de hiperparámetros.
 
 ---
 
-## 🗂️ Estructura sugerida del repositorio
+## 🗂️ Estructura
 
 ```
 ├─ notebooks/
@@ -31,6 +31,5 @@ Proyecto base (**baseline**) para clasificar imágenes de mariposas usando una *
    > Recomendado: en Colab, activa **GPU T4**: *Runtime → Change runtime type → GPU (T4)*.
 
 Si la ejecución demora ajustar el espacio de ejecución de la variable *space*
-
 
 ---
